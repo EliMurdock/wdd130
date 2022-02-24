@@ -1,5 +1,6 @@
 /* CSS - Name: "positionstyles.css" */
 /* Activity 1 styles */
+
 .content1 {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -196,6 +197,9 @@
   align-self: center;
 } 
 
+.activity {
+  max-width: 700px;
+}
 
 /* Do not make any changes below here */
 .activity {
